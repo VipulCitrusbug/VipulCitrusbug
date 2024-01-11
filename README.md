@@ -29,8 +29,8 @@ I'm a firm believer in continuous learning and staying at the forefront of techn
 
 I've had the pleasure of working on a variety of exciting projects. Here are a few highlights:
 
-1. [Embermail](https://your-django-ecommerce-project-link.com/): A robust email services built with Django.
-2. [Voiceflow](https://your-react-ai-chatbot-project-link.com/): An AI-powered chatbot using voiceflow.
+1. [Embermail](https://github.com/VipulCitrusbug?tab=repositories): A robust email services built with Django.
+2. [Voiceflow](https://github.com/VipulCitrusbug?tab=repositories): An AI-powered chatbot using voiceflow.
 
 ## 📫 Let's Connect
 
