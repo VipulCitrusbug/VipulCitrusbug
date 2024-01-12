@@ -4,9 +4,9 @@
 
 # Hey there, I'm Vipul Kavar 👋
 
-🚀 Full Stack Software Developer | 💻 Python, Django, DRF, React, Redux, AI/ML Enthusiast | 🌐 Tech Explorer
+🚀 **Full Stack Software Developer** | 💻 **Python, Django, DRF, React, Redux, AI/ML Enthusiast** | 🌐 **Tech Explorer**
 
-Welcome to my GitHub profile! I'm Vipul Kavar, a passionate full-stack software developer with expertise in Python, Django, DRF, React, Redux, and AI/ML. With over 4 years of hands-on experience, I'm dedicated to creating cutting-edge solutions that leverage the power of technology to enhance user experiences. Let's embark on a journey through my coding endeavors!
+Welcome to my GitHub profile! I'm **Vipul Kavar**, a passionate **full-stack software developer** with expertise in **Python, Django, DRF, React, Redux, and AI/ML**. With over **1 years** of hands-on experience, I'm dedicated to creating cutting-edge solutions that leverage the power of technology to enhance user experiences. Let's embark on a journey through my coding endeavors!
 
 ## 💻 My Tech Stack
 
@@ -22,21 +22,20 @@ Welcome to my GitHub profile! I'm Vipul Kavar, a passionate full-stack software 
 I'm a firm believer in continuous learning and staying at the forefront of technology. Here are some areas I'm currently exploring:
 
 - **Natural Language Processing (NLP)**: Applying AI to understand and respond to human language.
-- **Advanced React Patterns**: Exploring advanced patterns to build scalable and maintainable React applications.
 - **AI-powered Web Applications**: Integrating AI/ML into web applications for smarter functionalities.
 
 ## 🚀 My Projects
 
 I've had the pleasure of working on a variety of exciting projects. Here are a few highlights:
 
-1. [Embermail](https://github.com/VipulCitrusbug?tab=repositories): A robust email services built with Django.
-2. [Voiceflow](https://github.com/VipulCitrusbug?tab=repositories): An AI-powered chatbot using voiceflow.
+1. **[Embermail](https://github.com/VipulCitrusbug?tab=repositories)**: A robust email services built with Django.
+2. **[Voiceflow](https://github.com/VipulCitrusbug?tab=repositories)**: An AI-powered chatbot using voiceflow.
 
 ## 📫 Let's Connect
 
 I'm always open to connect with fellow developers, tech enthusiasts, and creative minds. Feel free to reach out through the following channels:
 
-- Email: vipul.citrusbug@gmail.com
+- Email: **vipul.citrusbug@gmail.com**
 
 ## ⚡ Fun Fact
 
