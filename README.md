@@ -30,6 +30,7 @@ I've had the pleasure of working on a variety of exciting projects. Here are a f
 
 1. **[Embermail](https://github.com/VipulCitrusbug?tab=repositories)**: A robust email services built with Django.
 2. **[Voiceflow](https://github.com/VipulCitrusbug?tab=repositories)**: An AI-powered chatbot using voiceflow.
+3. **[AI-ML](https://github.com/VipulCitrusbug/ai-ml-sample)**: AI-ML samples like face recognition, recommendation system, trash detection, comment sentiment tendency.
 
 ## 📫 Let's Connect
 
@@ -37,9 +38,6 @@ I'm always open to connect with fellow developers, tech enthusiasts, and creativ
 
 - Email: **vipul.citrusbug@gmail.com**
 
-## ⚡ Fun Fact
-
-Beyond the world of code, I'm a passionate music lover and enjoy playing the guitar. I believe in the harmony of technology and creativity!
 
 Thanks for stopping by, and let's collaborate👯 to create innovative solutions and push the boundaries of what's possible in tech. Let's connect, learn, and build amazing things together!
 
