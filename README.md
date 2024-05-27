@@ -4,18 +4,20 @@
 
 # Hey there, I'm Vipul Kavar 👋
 
-🚀 **Full Stack Software Developer** | 💻 **Python, Django, DRF, React, Redux, AI/ML Enthusiast** | 🌐 **Tech Explorer**
+🚀 **Full Stack Software Developer** | 💻 **Python, Django, DRF, React, AI/ML Developer** | 🌐 **Tech Explorer**
 
 Welcome to my GitHub profile! I'm **Vipul Kavar**, a passionate **full-stack software developer** with expertise in **Python, Django, DRF, React, Redux, and AI/ML**. With over **1 years** of hands-on experience, I'm dedicated to creating cutting-edge solutions that leverage the power of technology to enhance user experiences. Let's embark on a journey through my coding endeavors!
 
 ## 💻 My Tech Stack
 
 - Frontend: **React**, **Redux**, **HTML5**, **CSS3**, **JavaScript**, **jQuery**
-- Backend: **Python**, **Django**, **Django Rest Framework (DRF)**
+- Backend: **Python**, **Django**, **Django Rest Framework (DRF)**, **FastAPI**
 - AI/ML: **Machine Learning**, **Artificial Intelligence**
 - Databases: **MySQL**, **PostgreSQL**, **MongoDB**
 - Testing: **PyTest**
 - Version Control: **Git**
+- Agile Methodology: **Jira**, **Trello**
+- Third Party Tools: **AWS**, **Twilio**, **Stripe**, **LLM**
 
 ## 🌱 Learning & Exploring
 
